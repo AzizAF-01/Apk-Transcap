@@ -1,4 +1,5 @@
 # Berikut Hasil Aplikasi
+<p>Masih dalam tahap belajar, maaf jika tidak rapih</p>
 
 <img src="https://github.com/user-attachments/assets/464aa2a5-7527-4b09-ac47-b373679f2f32" alt="portfolio-apk-transcap" width="250"/>
 <img src="https://github.com/user-attachments/assets/a645e61f-e69f-4eac-a2af-23333339018d" alt="portfolio-apk-transcap" width="250"/>
